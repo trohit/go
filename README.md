@@ -4,6 +4,10 @@ Go Notes
 # Install
 https://go.dev/doc/install
 
+# Learn
+- https://go.dev/tour/
+
+
 # Books
 - https://github.com/adonovan/gopl.io/
   - https://www.gopl.io/
