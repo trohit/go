@@ -6,7 +6,10 @@ https://go.dev/doc/install
 
 # Learn
 - https://go.dev/tour/
+
+## Examples
 - https://gobyexample.com/
+- https://gowebexamples.com/
 
 
 # Books
