@@ -6,6 +6,7 @@ https://go.dev/doc/install
 
 # Learn
 - https://go.dev/tour/
+- https://go.dev/play/
 
 ## Examples
 - https://gobyexample.com/
